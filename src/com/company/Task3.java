@@ -13,7 +13,7 @@ public class Task3 {
             if (array[j] % 2 != 0) {
                 array[j] = 0;
             }
-            System.out.print( array[j]+",");
+            System.out.print(array[j] + ",");
         }
     }
 }
